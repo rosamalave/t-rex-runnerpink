@@ -45,3 +45,9 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 <br>
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
+- [rosamalave](https://github.com/rosamalave)/[t-rex-runnerpink](https://github.com/rosamalave/t-rex-runnerpink) [T-Rex Runner Pink](https://rosamalave.github.io/t-rex-runnerpink/) 
+<br>
+
+![](assets/trexpinkgif.gif)
+
